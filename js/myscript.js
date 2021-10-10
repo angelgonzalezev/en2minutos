@@ -6,27 +6,27 @@ let historias = [
   },
   {
     "Nombre": "La cabaña",
-    "Imagen": "/images/la-cabania.jpg",
+    "Imagen": "images/la-cabania.jpg",
     "Url": "https://en2minutos.webflow.io/posts/la-cabana"
   },
   {
     "Nombre": "La decisión de las ánimas",
-    "Imagen": "/images/la-decision-de-las-animas.jpg",
+    "Imagen": "images/la-decision-de-las-animas.jpg",
     "Url": "https://en2minutos.webflow.io/posts/la-decision-de-las-animas"
   },
   {
     "Nombre": "Lo que lo persiguió",
-    "Imagen": "/images/lo-que-lo-persiguio.jpg",
+    "Imagen": "images/lo-que-lo-persiguio.jpg",
     "Url": "https://en2minutos.webflow.io/posts/lo-que-lo-persiguio"
   },
   {
     "Nombre": "No enciendas la luz",
-    "Imagen": "/images/no-enciendas-la-luz.jpg",
+    "Imagen": "images/no-enciendas-la-luz.jpg",
     "Url": "https://en2minutos.webflow.io/posts/no-enciendas-la-luz"
   },
   {
     "Nombre": "No vayas",
-    "Imagen": "/images/no-vayas.jpg",
+    "Imagen": "images/no-vayas.jpg",
     "Url": "https://en2minutos.webflow.io/posts/no-vayas"
   }
 ]
