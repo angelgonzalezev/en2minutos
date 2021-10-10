@@ -1,7 +1,7 @@
 let historias = [
   {
     "Nombre": "Hay alguien ahí",
-    "Imagen": "/images/hay-alguien-ahi.jpg",
+    "Imagen": "images/hay-alguien-ahi.jpg",
     "Url": "https://en2minutos.webflow.io/posts/hay-alguien-ahi"
   },
   {
