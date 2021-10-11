@@ -1,7 +1,60 @@
+body{
+  margin: 0;
+}
+
+.hero{
+  margin-top: 20px;
+  font-family: 'Creepster', cursive;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hero-container{
+  margin: 0 auto;
+}
+.hero h1{
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+}
+.story{
+  margin: 0 20px auto;
+  display:flex;
+  justify-content:flex-start;
+  flex-direction: column;
+}
+.image-container{
+  text-align: center;
+}
+.image-container img{
+  width: 250px;
+  height: 250px;
+}
+.buttons{
+  margin: 0 20px auto;
+  display:flex;
+  justify-content:flex-start;
+  flex-direction: column;
+  align-items: center;
+}
 .button {
   background-color: black;
   border: none;
   color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.transparent-button{
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+  font-size: 20px;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;

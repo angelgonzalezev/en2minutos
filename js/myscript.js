@@ -37,7 +37,7 @@ let historias = [
 function cambiarHistoria() {
   var i = Math.round(Math.random() * (historias.length-1))
   document.getElementById("image").src = historias[i].Imagen;
-  document.getElementById("title").textContent = historias[i].Nombre;
+  document.getElementById("story-title").textContent = historias[i].Nombre;
   document.getElementById("link").href = historias[i].Url;
 }
 
@@ -47,18 +47,16 @@ function cambiarHistoria() {
 function seleccionarHistoria() {
   var i = Math.round(Math.random() * (historias.length - 1))
   document.getElementById("image").src = historias[i].Imagen;
-  document.getElementById("title").textContent = historias[i].Nombre;
+  document.getElementById("story-title").textContent = historias[i].Nombre;
   document.getElementById("link").href = historias[i].Url;
+  //Para que aparezcan los botones
   document.getElementById('container-button1').style.display = 'block';
   document.getElementById('link-button1').href = historias[i].Url;
   document.getElementById('container-button2').style.display = 'block';
 }
 
-
-
-
 /**
-* Función que se ejecuta una vez cargada la página
+* Función que se ejecuta al cargar la página
 */
 onload = function () {
   //Al cargar la pantalla los botones estan ocultos
