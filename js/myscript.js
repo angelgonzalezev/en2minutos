@@ -28,6 +28,51 @@ let historias = [
     "Nombre": "No vayas",
     "Imagen": "images/no-vayas.jpg",
     "Url": "https://en2minutos.webflow.io/posts/no-vayas"
+  },
+  {
+    "Nombre": "En medio de la oscuridad",
+    "Imagen": "images/En-medio-de-la-oscuridad.jpg",
+    "Url": "https://en2minutos.webflow.io/posts/en-medio-de-la-oscuridad"
+  },
+  {
+    "Nombre": "La niña suplente",
+    "Imagen": "images/la-nina-suplente.jpg",
+    "Url": "https://en2minutos.webflow.io/posts/la-nina-suplente"
+  },
+  {
+    "Nombre": "La habitación de la torre",
+    "Imagen": "images/la-habitacion-de-la-torre.jpg",
+    "Url": "https://en2minutos.webflow.io/posts/la-habitacion-de-la-torre"
+  },
+  {
+    "Nombre": "Yuki-Onna o la novia de nieve",
+    "Imagen": "images/yuki-ona.jpg",
+    "Url": "https://en2minutos.webflow.io/posts/yuki-onna-o-la-novia-de-nieve"
+  },
+  {
+    "Nombre": "El huerfano sacrificado",
+    "Imagen": "images/el-huerfano-sacrificado.jpg",
+    "Url": "https://en2minutos.webflow.io/posts/el-huerfano-sacrificado"
+  },
+  {
+    "Nombre": "El fantasma de mi casa",
+    "Imagen": "images/el-fantasma-de-mi-casa.jpg",
+    "Url": "https://en2minutos.webflow.io/posts/el-fantasma-de-mi-casa"
+  },
+  {
+    "Nombre": "La noche en la morgue",
+    "Imagen": "images/la-noche-en-la-morgue.jpg",
+    "Url": "https://en2minutos.webflow.io/posts/la-noche-en-la-morgue"
+  },
+  {
+    "Nombre": "Población: 0",
+    "Imagen": "images/poblacion-0.jpg",
+    "Url": "https://en2minutos.webflow.io/posts/poblacion-0"
+  },
+  {
+    "Nombre": "Banquete siniestro",
+    "Imagen": "images/banquete-siniestro.jpg",
+    "Url": "https://en2minutos.webflow.io/posts/banquete-siniestro"
   }
 ]
 
